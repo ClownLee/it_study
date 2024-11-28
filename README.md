@@ -292,12 +292,12 @@
 ```
 ## python
 ### 课程：python分布式爬虫打造搜索引擎
-### 课程时长：4天
+### 课程时长：30天
 ### 课程地址：
 [传送门: https://pan.baidu.com/s/1OryjX0GLPxsWG-Isb4jowQ](https://pan.baidu.com/s/1OryjX0GLPxsWG-Isb4jowQ)
 
 ## PHP
 ### 课程：CX80PHP秒杀系统 高并发高性能的极致挑战（完整版）
-### 课程时长：4天
+### 课程时长：10天
 ### 课程地址：
 [传送门: https://pan.baidu.com/s/1q10QEyOR6UAhVWRDcITrqg](https://pan.baidu.com/s/1q10QEyOR6UAhVWRDcITrqg)
